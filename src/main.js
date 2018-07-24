@@ -79,7 +79,7 @@ const mainLayer = new maptalks.TileLayer('base', {
 const map = new maptalks.Map('map-main', {
     // center: [-0.113049, 51.498568],
     // center: [-73.97332, 40.76462],
-    center: [-74.0130345, 40.70635160000003],
+    center: [-71.0786989,42.3615754],
     zoom: 16,
     baseLayer: mainLayer
 });
